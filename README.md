@@ -1,2 +1,4 @@
 # Integer Programs and Resource Allocation
+This repo contains the coding assignments I did for the chapters I studied from the book *Applied Integer Programming : Modeling and Solution* by Der-San Chen, Robert G. Batson, and Yu Dang. All the code is created as Jupyter notebooks running Python 3.9. The environment I used is specified in `requirements.txt` although that's likely more than the minimum required packages. Additionally, Gurobi is used as the solver, so a license may be needed for that. I intend to keep most examples small enough that the trial license can run them. Some examples, however, may get too big for that and so an academic license may be necessary.
 
+If you don't want to set up and view the notebooks through Jupyter, they will be published to an HTML file for viewing and exported to a python file that can be run as a normal python script.
